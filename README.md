@@ -1,4 +1,4 @@
-# 🚀 ML Trading System V8.8 - Phase 5 (AutoML + Deep Learning Regime Detection)
+# 🚀 ML Trading System V8.8 - Phase 5 (AutuGluon + Deep Learning Regime Detection)
 
 **Python • AutoGluon • Deep Learning • Walk-Forward Validation • Honest Performance Reporting**
 
