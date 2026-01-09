@@ -370,7 +370,7 @@ xgb_params={'random_state': SEED, 'seed': SEED}
 
 ## 📊 Comparison: Phase 4 vs Phase 5
 
-| Metric | Phase 4 (V8.8) | Phase 5 (V8.8) | Change |
+| Metric | Phase 4        | Phase 5        | Change |
 |--------|----------------|----------------|--------|
 | Portfolio Return | +119.42% | +294.90% | **+147%** 📈 |
 | vs Benchmark | +2.11% | -7.74% | -9.85% 📉 |
